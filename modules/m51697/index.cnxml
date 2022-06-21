@@ -8,7 +8,7 @@
   <md:uuid>8c32c285-0485-4dd1-abfc-19139bdc0e72</md:uuid>
 </metadata>
 
-<content class="appendix">
+<content>
 <para id="fs-idp8968656">We the People of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America.</para>
 <para id="fs-idm17594336"><emphasis effect="bold">Article. I.</emphasis></para>
 <para id="fs-idm275954576"><emphasis effect="bold">Section. 1.</emphasis></para>
@@ -73,7 +73,7 @@
 
 <para id="fs-idp212586320">To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;</para>
 
-<para id="fs-idm79357712">To establish a uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;</para>
+<para id="fs-idm79357712">To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;</para>
 
 <para id="fs-idm84815040">To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;</para>
 
@@ -259,7 +259,7 @@ Wil: Livingston<newline/>
 David Brearley<newline/>
 Wm. Paterson<newline/>
 Jona: Dayton<newline/>
-<emphasis effect="bold">Pennsylvania</emphasis><newline/>
+<emphasis effect="bold">Pensylvania</emphasis><newline/>
 B Franklin<newline/>
 Thomas Mifflin<newline/>
 Robt. Morris<newline/>
@@ -499,6 +499,6 @@ Gouv Morris</para>
 
 <para id="fs-idp178161680">No law, varying the compensation for the services of the Senators and Representatives, shall take effect, until an election of Representatives shall have intervened.</para>
 
- </content>
+</content>
 
 </document>
