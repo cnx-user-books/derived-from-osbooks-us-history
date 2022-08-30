@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="John Raible">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col12062</md:content-id>
     <md:title>AMH2010 Dr. Rosalind Beiler</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>75147583-d525-4039-ac4f-cd4dbe210274</md:uuid>
-<md:slug>amh2010-dr-rosalind-beiler</md:slug>
-</metadata>
+    <md:slug>amh2010-dr-rosalind-beiler</md:slug>
+  </metadata>
   <col:content>
     <col:subcollection>
       <md:title>The Americas, Europe, and Africa Before 1492</md:title>
@@ -18,7 +19,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Early Globalization: The Atlantic World, 1492–1650</md:title>
+      <md:title>Early Globalization: The Atlantic World, 1492&#x2013;1650</md:title>
       <col:content>
         <col:module document="m49991"/>
         <col:module document="m49994"/>
@@ -28,7 +29,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Creating New Social Orders: Colonial Societies, 1500–1700</md:title>
+      <md:title>Creating New Social Orders: Colonial Societies, 1500&#x2013;1700</md:title>
       <col:content>
         <col:module document="m50006"/>
         <col:module document="m49998"/>
@@ -38,7 +39,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Rule Britannia! The English Empire, 1660–1763</md:title>
+      <md:title>Rule Britannia! The English Empire, 1660&#x2013;1763</md:title>
       <col:content>
         <col:module document="m50018"/>
         <col:module document="m50016"/>
@@ -70,7 +71,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Creating Republican Governments, 1776–1790</md:title>
+      <md:title>Creating Republican Governments, 1776&#x2013;1790</md:title>
       <col:content>
         <col:module document="m50030"/>
         <col:module document="m50031"/>
@@ -80,7 +81,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Growing Pains: The New Republic, 1790–1820</md:title>
+      <md:title>Growing Pains: The New Republic, 1790&#x2013;1820</md:title>
       <col:content>
         <col:module document="m50037"/>
         <col:module document="m50038"/>
@@ -90,7 +91,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Industrial Transformation in the North, 1800–1850</md:title>
+      <md:title>Industrial Transformation in the North, 1800&#x2013;1850</md:title>
       <col:content>
         <col:module document="m50043"/>
         <col:module document="m50044"/>
@@ -100,7 +101,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Jacksonian Democracy, 1820–1840</md:title>
+      <md:title>Jacksonian Democracy, 1820&#x2013;1840</md:title>
       <col:content>
         <col:module document="m50049"/>
         <col:module document="m50050"/>
@@ -111,7 +112,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>A Nation on the Move: Westward Expansion, 1800–1860</md:title>
+      <md:title>A Nation on the Move: Westward Expansion, 1800&#x2013;1860</md:title>
       <col:content>
         <col:module document="m50055"/>
         <col:module document="m50057"/>
@@ -122,7 +123,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Cotton is King: The Antebellum South, 1800–1860</md:title>
+      <md:title>Cotton is King: The Antebellum South, 1800&#x2013;1860</md:title>
       <col:content>
         <col:module document="m50063"/>
         <col:module document="m50064"/>
@@ -132,7 +133,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>Antebellum Idealism and Reform Impulses, 1820–1860</md:title>
+      <md:title>Antebellum Idealism and Reform Impulses, 1820&#x2013;1860</md:title>
       <col:content>
         <col:module document="m50070"/>
         <col:module document="m50071"/>
@@ -153,7 +154,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>The Civil War, 1860–1865</md:title>
+      <md:title>The Civil War, 1860&#x2013;1865</md:title>
       <col:content>
         <col:module document="m50084"/>
         <col:module document="m50085"/>
