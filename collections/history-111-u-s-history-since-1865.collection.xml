@@ -1,12 +1,13 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:md="http://cnx.rice.edu/mdml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" authors="Lisa Lane">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
     <md:content-id>col11870</md:content-id>
     <md:title>History 111:  U.S. History Since 1865</md:title>
     <md:language>en</md:language>
     <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License</md:license>
     <md:uuid>a31e0631-7bc6-4f77-80fe-ca8270453f56</md:uuid>
-<md:slug>history-111-u-s-history-since-1865</md:slug>
-</metadata>
+    <md:slug>history-111-u-s-history-since-1865</md:slug>
+  </metadata>
   <col:content>
     <col:module document="m52490"/>
     <col:subcollection>
@@ -16,7 +17,7 @@
       </col:content>
     </col:subcollection>
     <col:subcollection>
-      <md:title>The Era of Reconstruction, 1865–1877</md:title>
+      <md:title>The Era of Reconstruction, 1865&#x2013;1877</md:title>
       <col:content>
         <col:module document="m50090"/>
         <col:module document="m50091"/>
